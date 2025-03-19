@@ -1,0 +1,44 @@
+{
+  "todoList": [
+    {
+      "id": "436e",
+      "todoItem": "Hello Sunny",
+      "isDone": true
+    },
+    {
+      "id": "275a",
+      "todoItem": "Hello React",
+      "isDone": true
+    },
+    {
+      "id": "da33",
+      "todoItem": "Learn Next.js",
+      "isDone": false
+    },
+    {
+      "id": "3335",
+      "todoItem": "Rajesh",
+      "isDone": false
+    },
+    {
+      "id": "97fe",
+      "todoItem": "vdfvdfv",
+      "isDone": false
+    },
+    {
+      "id": "963c",
+      "todoItem": "vrvfvfr",
+      "isDone": false
+    },
+    {
+      "id": "9bef",
+      "todoItem": "vdevfv",
+      "isDone": false
+    },
+    {
+      "id": "2c03",
+      "todoItem": "gtgtrg",
+      "isDone": false
+    }
+  ]
+}
